@@ -9,4 +9,7 @@ public class Car
 	public int get1234(){
 
 	}
+	public int get5678(){
+
+	}
 }
