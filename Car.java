@@ -6,7 +6,7 @@ public class Car
 	{
 		return 4;
 	}
-	public int get456(){
+	public int get1234(){
 
 	}
 }
